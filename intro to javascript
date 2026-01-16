@@ -7,3 +7,9 @@ Use visual studio code: click choose folder create folder on desktop then you ne
 1- HTML file name it index.html : this will be the home page
 2- style.CSS: this will be in charge of the overall apperence of the webpage ex: fonts, colors,position,etc..
 3- last file is javascript file named index.js: javascript file is in charge of the interactivity of the webpage
+
+to start coding in HTML file: ! then tab button it will bring up block of code you can change the title
+then you will need to link css file <link rel="stylesheet"> href="the name of css file">
+link the javascript file to html file: <script src="name of the javascript file "></ script>
+
+download live webserver: so you can see your website to see what you have build so far save your code click on your HTML file open with live web server it will show you the page 
