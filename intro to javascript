@@ -2,3 +2,8 @@ java script programming language used to dynamic and create webpages.
 Javascript runs on web browser such as google chrome safari.
 With javascript you can respond to user action.
 for example, for calculator HTML: builds the frame , CSS: adds color and style to calculator still doesn't work but with javascript code calculator can perform actions
+
+Use visual studio code: click choose folder create folder on desktop then you need three files
+1- HTML file name it index.html : this will be the home page
+2- style.CSS: this will be in charge of the overall apperence of the webpage ex: fonts, colors,position,etc..
+3- last file is javascript file named index.js: javascript file is in charge of the interactivity of the webpage
